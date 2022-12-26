@@ -1,11 +1,14 @@
-# Script to send emails with variables :email:
-## Getting started
- - Installing dependencies
+# Script para email inteligente :email:
+## Primeiros passos
+ - Instalando dependências
 ```bash
 pip install -r documents/requirements.txt
 ```
- - Running application
+ - Rodando aplicação
 
 ```bash
 python3 main.py
 ```
+#
+ - Instruções no diretório *documentation/*]
+ 
